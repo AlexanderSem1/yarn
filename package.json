@@ -1,0 +1,12 @@
+{
+  "name": "ma2yarn",
+  "version": "1.0.0",
+  "description": "Workflow 2 MA2 ",
+  "main": "index.js",
+  "author": "Alexander Sem Borrmann",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
